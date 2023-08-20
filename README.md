@@ -10,7 +10,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 Now that you’ve completed your initial analysis, you’ll design a Flask API based on the queries that you just developed.
 
-# ----------------------------------------------------------
+----------------------------------------------------------
 
 # This repository contains the following files.
 
