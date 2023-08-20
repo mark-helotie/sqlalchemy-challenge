@@ -12,11 +12,11 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 # ----------------------------------------------------------------------------
 
-This repository contains the following files:
+# This repository contains the following files.
 
 **Module10_Challenge.docx** == the FULL and detailed instruction set for this entire challenge.
 
-Under the "SurfsUp" folder --
+Under the "SurfsUp" folder:
 
 **1_climate_starter.ipynb** == the Jupyter notebook for Part 1.
 
