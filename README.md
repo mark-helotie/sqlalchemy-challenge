@@ -14,11 +14,11 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 This repository contains the following files:
 
-Module10_Challenge.docx == the FULL and detailed instruction set for this entire challenge.
+**Module10_Challenge.docx** == the FULL and detailed instruction set for this entire challenge.
 
 Under the "SurfsUp" folder --
 
-1_climate_starter.ipynb == the Jupyter notebook for Part 1.
-2_app.py == the Python script that spawns a local Flask session in a web browser for Part 2.
+**1_climate_starter.ipynb** == the Jupyter notebook for Part 1.
+**2_app.py** == the Python script that spawns a local Flask session in a web browser for Part 2.
 
 The "Resources" folder contains the CSV files and the SQLLite file which gets imported.
