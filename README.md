@@ -16,8 +16,8 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 Under the "SurfsUp" folder:
 
-**1_climate_starter.ipynb** == the Jupyter notebook for Part 1.
+**1_climate_Helotie.ipynb** == the Jupyter notebook for Part 1.
 
-**2_app.py** == the Python script that spawns a local Flask session in a web browser for Part 2.
+**2_app_Helotie.py** == the Python script that spawns a local Flask session in a web browser for Part 2.
 
 The "Resources" folder contains the CSV files and the SQLLite file which gets imported.
